@@ -4,8 +4,8 @@ A repository containing homework assignments I am completing as part of the Lede
 
 ## This repository contains:
 
-* Part 1
-* Part 2
-* Part 3
-* Part 4
+* Part 1: US Presidents
+* Part 2: Le Monde
+* Part 3: Arizona
+* Part 4: US Bankruptcy Court
 
